@@ -3,7 +3,7 @@ Unipd - Big Data - Map Reduce homework
 
 Simple counting example by pyspark
 
-## Usage HW1 and HW2: 
+## Usage HW1: 
 
 ```python G35HW1.py <K> <T> <file_name>```
 
